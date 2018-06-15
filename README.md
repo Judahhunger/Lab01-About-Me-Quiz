@@ -5,4 +5,4 @@ The About me Quiz is a game that will ask quetions in the console and after answ
  -What is my favorite number. user put in: 2. answer: you're correct it's 2.
  -What is my favorite number. user put in: 5. answer: sorry it was 2.
 
-## 
+![Reverse Array whiteboard image](aboutVisual.png)
